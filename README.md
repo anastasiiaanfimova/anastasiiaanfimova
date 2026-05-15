@@ -9,6 +9,10 @@ QA engineer, mostly working with backend / web testing for AI products.
 - **[testiny-mcp](https://github.com/anastasiiaanfimova/testiny-mcp)** — MCP server for Testiny test management — create and manage test cases from Claude
 - **[hermes-docker](https://github.com/anastasiiaanfimova/hermes-docker)** — Docker setup for the Hermes agent with MemPalace memory and Infisical secrets
 
+## Gists
+
+- [gist.github.com/anastasiiaanfimova](https://gist.github.com/anastasiiaanfimova) — ad-hoc patches & setup notes (e.g. MemPalace launchd / reconnect / mine-off patches)
+
 ## Contributions
 
 - [obra/episodic-memory](https://github.com/obra/episodic-memory) [#85](https://github.com/obra/episodic-memory/pull/85) — incremental indexing fix for appended exchanges, shipped in [v1.1.0](https://github.com/obra/episodic-memory/releases/tag/v1.1.0)
