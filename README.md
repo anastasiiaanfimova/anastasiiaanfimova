@@ -2,6 +2,8 @@
 
 QA engineer, mostly working with backend / web testing for AI products.
 
+[LinkedIn](https://www.linkedin.com/in/anastasiia-anfimova/)
+
 ## Public work
 
 - **[qa-playbook](https://github.com/anastasiiaanfimova/qa-playbook)** — methodology snapshots of QA skills (TC writing, bug investigation, weekly review, daily logs)
