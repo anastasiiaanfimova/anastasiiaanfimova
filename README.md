@@ -8,8 +8,7 @@ QA engineer, mostly working with backend / web testing for AI products.
 
 - **[qa-playbook](https://github.com/anastasiiaanfimova/qa-playbook)** — methodology snapshots of QA skills (TC writing, bug investigation, weekly review, daily logs)
 - **[claude-configs](https://github.com/anastasiiaanfimova/claude-configs)** — methodology snapshot of one Claude Code setup (skills, agents, hook patterns, memory stack)
-- **[testiny-mcp](https://github.com/anastasiiaanfimova/testiny-mcp)** — MCP server for Testiny test management — create and manage test cases from Claude
-
+  
 ## Gists
 
 - [gist.github.com/anastasiiaanfimova](https://gist.github.com/anastasiiaanfimova) — ad-hoc patches & setup notes (e.g. MemPalace launchd / reconnect / mine-off patches)
